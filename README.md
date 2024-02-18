@@ -1,5 +1,5 @@
 ### Hi there 👋
-[My Websites&Social Medias](https://seedream7649.top)
+[![My Websites&Social Medias](https://raw.githubusercontent.com/buxiuzhixing/home/dev/screenshots/main.jpg)](https://seedream7649.top)
 ![buxiuzhixing's GitHub stats](https://github.seedream7649.top/api?username=buxiuzhixing&show_icons=true&theme=radical)
 [![Top Langs](https://github.seedream7649.top/api/top-langs/?username=buxiuzhixing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
